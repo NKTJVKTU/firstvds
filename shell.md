@@ -35,3 +35,4 @@ WantedBy=timers.target
 * sudo systemctl daemon-reload
 * systemctl start balanceWrite.timer
 ```
+chmod u+x run.sh

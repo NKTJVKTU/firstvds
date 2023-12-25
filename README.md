@@ -3,6 +3,10 @@
 
 Черновик проекта для расчета остатка кол-ва дней для хостинга FirstVDS.
 
+> [!WARNING]
+> Проект в разработке, конечная версия будет сильно отличаться от текущей.
+
+
 <!-- ROADMAP -->
 ## Дорожная карта
 
@@ -29,3 +33,5 @@
 
 [Bash.org]: https://gnu.org/graphics/heckert_gnu.transp.small.png
 [Bash-url]: https://gnu.org/
+
+:+1:

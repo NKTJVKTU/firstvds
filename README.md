@@ -21,6 +21,8 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Python-url]: https://www.python.org/static/img/python-logo.png
+[Python.org]: https://www.python.org/static/img/python-logo.png
+[Python-url]: https://www.python.org/
+
 [Docker-url]: https://docker.com/
 [Bash-url]: https://gnu.org/

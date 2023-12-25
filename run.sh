@@ -7,6 +7,10 @@ if [ ! -f $SERVICE_FILE ]; then
     touch $SERVICE_FILE
 fi
 
+if [ ! -f $TIME_FILE ]; then
+    touch $TIME_FILE
+fi
+
 echo "[Unit]
 Description=DiscordBot write balance exp
 

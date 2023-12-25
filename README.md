@@ -14,15 +14,13 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Python][Python]][Python-url]
+* [![Python][Python.org]][Python-url]
 * [![Docker][Docker]][Docker-url]
 * [![Bash][Bash]][Bash-url]
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Python-url]: https://python.org/
+[Python-url]: https://www.python.org/static/img/python-logo.png
 [Docker-url]: https://docker.com/
 [Bash-url]: https://gnu.org/

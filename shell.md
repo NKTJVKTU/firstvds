@@ -24,7 +24,7 @@ Description=balanceWrite timer
 Requires=balanceWrite.service
 
 [Timer]
-OnCalendar=*-*-* 01:00:00
+OnCalendar=*-*-* 05:00:00
 Unit=balanceWrite.service
 AccuracySec=1us
 

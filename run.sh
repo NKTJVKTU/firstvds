@@ -40,16 +40,16 @@ NEED_RELOAD_DAEMON=true
 
 if [ ! -f $SERVICE_FILE ]; then
     createServiceFile
-    echo -e "${GREEN}[OK]${NC} FILE CREATED!"
+    echo -e "${GREEN}[OK]${NC} FILE $SERVICE_FILE CREATED!"
 else
-   echo -e "${RED}[ERROR]${NC} FILE FOUND!"
+   echo -e "${RED}[ERROR]${NC} FILE $SERVICE_FILE EXISTS!"
 fi
 
 if [ ! -f $TIME_FILE ]; then
     createTimerFile
-    echo -e "${GREEN}[OK]${NC} FILE CREATED!"
+    echo -e "${GREEN}[OK]${NC} FILE $TIME_FILE CREATED!"
 else
-   echo -e "${RED}[ERROR]${NC} FILE FOUND!"
+   echo -e "${RED}[ERROR]${NC} FILE $TIME_FILE EXISTS!"
 fi
 
 if $NEED_RELOAD_DAEMON; then
